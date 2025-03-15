@@ -2,7 +2,7 @@
 
 Ce projet est un outil de sécurité réseau qui permet de réaliser des attaques ARP Spoofing et de capturer les requêtes DNS. Il est développé en Python en utilisant la bibliothèque Scapy pour manipuler les paquets réseau.
 
-## Fonctionnalités
+##  Fonctionnalités
 
 - **ARP Spoofing** : Permet de rediriger le trafic réseau entre une cible et la passerelle (gateway) en envoyant des paquets ARP falsifiés.
 - **DNS Sniffing** : Capture et affiche les requêtes DNS envoyées par les appareils sur le réseau.
