@@ -7,7 +7,7 @@ Ce projet est un outil de sécurité réseau qui permet de réaliser des attaque
 - **ARP Spoofing** : Permet de rediriger le trafic réseau entre une cible et la passerelle (gateway) en envoyant des paquets ARP falsifiés.
 - **DNS Sniffing** : Capture et affiche les requêtes DNS envoyées par les appareils sur le réseau.
 
-## Utilisation
+##  Utilisation
 
 1. **ARP Spoofing** : Le script envoie des paquets ARP falsifiés à la cible et à la passerelle pour rediriger le trafic.
 2. **DNS Sniffing** : Le script écoute sur le port UDP 53 pour capturer les requêtes DNS et affiche l'adresse IP source ainsi que la requête DNS.
